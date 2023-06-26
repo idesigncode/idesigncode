@@ -9,22 +9,22 @@ I’m a Front-end Web Developer who enjoys taking website designs and building t
 I really enjoy using React and its component-based approach coupled with Storybook for its excellent documentation capabilities.
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/idesigncode/idesigncode/assets/15828266/25c10608-50e0-433f-8a42-aaa49a7c6a19">
-  <img src="https://github.com/idesigncode/idesigncode/assets/15828266/4f8bf1a4-c739-4706-8e76-b386a5b092bc" alt="Next.js" width="50" height="50" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/idesigncode/idesigncode/assets/15828266/a8aafcf2-659f-4a6d-b396-15e7577f7b9c">
+  <img src="https://github.com/idesigncode/idesigncode/assets/15828266/3b10ce05-89d3-4097-9dfb-06b87af0a711" alt="Next.js" width="50" height="50" />
 </picture>
-<img src="https://github.com/idesigncode/idesigncode/assets/15828266/7560db71-5f03-4948-8247-0ba1e07317a7" alt="React" width="50" height="50" />
-<img src="https://github.com/idesigncode/idesigncode/assets/15828266/46cea158-e91e-4719-9cf6-cd0e98f2d16e" alt="Storybook" width="50" height="50" />
-<img src="https://github.com/idesigncode/idesigncode/assets/15828266/5cf81af5-31c4-4e2e-8dcd-82c26bbf481e" alt="Javascript" width="50" height="50" />
-<img src="https://github.com/idesigncode/idesigncode/assets/15828266/47cbb31d-b665-48b3-b2d2-b6bea6a5d009" alt="HTML5" width="50" height="50" />
-<img src="https://github.com/idesigncode/idesigncode/assets/15828266/fea63a44-5754-4c1f-8a9d-01665ebbf454" alt="CSS3" width="50" height="50" />
-<img src="https://github.com/idesigncode/idesigncode/assets/15828266/41623911-977a-4c8e-adfc-6d37d2cacc3c" alt="Jest" width="50" height="50" />
+<img src="https://github.com/idesigncode/idesigncode/assets/15828266/4b3fd54c-76e6-4816-8d3c-e76bad471cb4" alt="React" width="50" height="50" />
+<img src="https://github.com/idesigncode/idesigncode/assets/15828266/61cb6909-efbc-4cca-88cf-5064d67993b7" alt="Storybook" width="50" height="50" />
+<img src="https://github.com/idesigncode/idesigncode/assets/15828266/195f07f2-08da-4911-a033-459dcf4ec512" alt="Javascript" width="50" height="50" />
+<img src="https://github.com/idesigncode/idesigncode/assets/15828266/0dbd2af4-11d1-46fd-968e-3c1612832991" alt="HTML5" width="50" height="50" />
+<img src="https://github.com/idesigncode/idesigncode/assets/15828266/945a4059-b55f-4b04-9398-07330d9e67fc" alt="CSS3" width="50" height="50" />
+<img src="https://github.com/idesigncode/idesigncode/assets/15828266/75173a4a-42a3-4f54-bbfc-5e940c7b8fe3" alt="Jest" width="50" height="50" />
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/idesigncode/idesigncode/assets/15828266/40aaead3-5146-45de-a4dd-c1008cf668c6">
-  <img src="https://github.com/idesigncode/idesigncode/assets/15828266/87f7a186-6a51-4d17-837c-accd12cd6b21" alt="Cypress" width="50" height="50" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/idesigncode/idesigncode/assets/15828266/d4e8d109-4639-426d-b4ba-4b361897f5d9">
+  <img src="https://github.com/idesigncode/idesigncode/assets/15828266/a82dbec1-89a3-40f3-bc78-4ae4eda6abc1" alt="Cypress" width="50" height="50" />
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/idesigncode/idesigncode/assets/15828266/54bbd09c-7195-4205-8b3e-f7d498c1f374">
-  <img src="https://github.com/idesigncode/idesigncode/assets/15828266/059185a2-1f6d-45d2-94c0-2891fd76c00b" alt="GitHub" width="50" height="50" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/idesigncode/idesigncode/assets/15828266/4e08c8ba-ab6c-4a68-bab9-d6d163ca2550">
+  <img src="https://github.com/idesigncode/idesigncode/assets/15828266/c07f3c25-8f9e-4519-86a2-c37be2948bf2" alt="GitHub" width="50" height="50" />
 </picture>
 
 
