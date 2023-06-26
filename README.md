@@ -1,12 +1,10 @@
-# Hi, I’m Matt 👋
+# 👋 Hi, I’m Matt
 
 I’m a Front-end Developer who enjoys turning website designs into accessible, cross-platform user experiences - or to put it simply... 
 
 > “I design code”. 
 
-## My tools 🛠️
-
-I really enjoy using React and its component-based approach coupled with Storybook for its excellent documentation capabilities.
+## 🛠️ My tools
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/idesigncode/idesigncode/assets/15828266/a8aafcf2-659f-4a6d-b396-15e7577f7b9c">
