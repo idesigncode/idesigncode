@@ -4,6 +4,10 @@ I’m a Front-end Developer who enjoys turning website designs into accessible, 
 
 > “I design code”. 
 
+## Currently learning 🧠
+
+All about Client & Server Components with Next.js.
+
 ## My tools 🛠️
 
 <picture>
