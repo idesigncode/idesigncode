@@ -6,7 +6,7 @@ I’m a Front-end Developer who enjoys turning website designs into accessible, 
 
 ## Currently learning 🧠
 
-All about Client & Server Components with Next.js.
+The finer detail of using Typescript generics.
 
 ## My tools 🛠️
 
@@ -22,6 +22,9 @@ All about Client & Server Components with Next.js.
 </picture>
 <picture>
   <img src="https://github.com/idesigncode/idesigncode/assets/15828266/195f07f2-08da-4911-a033-459dcf4ec512" alt="Javascript" width="50" height="50" />
+</picture>
+<picture>
+  <img src="https://github.com/idesigncode/idesigncode/assets/15828266/6fa23081-d2e5-4bb6-80de-5401eaad2823" alt="Typescript" width="50" height="50" />
 </picture>
 <picture>
   <img src="https://github.com/idesigncode/idesigncode/assets/15828266/f969059d-4b80-4171-9c7e-64556879bbd8" alt="HTML5" width="50" height="50" />
