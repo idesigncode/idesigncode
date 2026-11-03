@@ -1,12 +1,12 @@
 # Hi, I’m Matt 👋
 
-I’m a Front-end Developer who enjoys turning website designs into accessible, cross-platform user experiences - or to put it simply... 
+I’m a Front-end Developer who approaches software with a designer’s mindset and an engineer’s rigor, building systems where clarity, structure, and developer experience come first - or to put it simply... 
 
 > “I design code”. 
 
-## Currently learning 🧠
+## Currently working on 👷
 
-The finer detail of using Typescript generics.
+Architecting project infrastructure to guide AI-assisted development.
 
 ## My tools 🛠️
 
@@ -46,5 +46,3 @@ The finer detail of using Typescript generics.
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/idesigncode/idesigncode/assets/15828266/4e08c8ba-ab6c-4a68-bab9-d6d163ca2550">
   <img src="https://github.com/idesigncode/idesigncode/assets/15828266/c07f3c25-8f9e-4519-86a2-c37be2948bf2" alt="GitHub" width="50" height="50" />
 </picture>
-
-##### 👇 Here's a few of my personal projects...
