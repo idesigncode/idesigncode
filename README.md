@@ -1,6 +1,6 @@
 # Hi, I’m Matt 👋
 
-I’m a Front-end Developer who approaches software with a designer’s mindset and an engineer’s rigor, building systems where clarity, structure, and developer experience come first - or to put it simply... 
+I’m a Senior Front-end Developer who approaches software with a designer’s mindset and an engineer’s rigor, building systems where clarity, structure, and developer experience come first - or to put it simply... 
 
 > “I design code”. 
 
@@ -30,16 +30,16 @@ Architecting project infrastructure to guide AI-assisted development.
   <img src="https://github.com/idesigncode/idesigncode/assets/15828266/6fa23081-d2e5-4bb6-80de-5401eaad2823" alt="Typescript" width="50" height="50" />
 </picture>
 <picture>
-  <img src="https://github.com/idesigncode/idesigncode/assets/15828266/f969059d-4b80-4171-9c7e-64556879bbd8" alt="HTML5" width="50" height="50" />
-</picture>
-<picture>
-  <img src="https://github.com/idesigncode/idesigncode/assets/15828266/945a4059-b55f-4b04-9398-07330d9e67fc" alt="CSS3" width="50" height="50" />
+  <img src="https://github.com/user-attachments/assets/106af75a-b23c-4cc5-bd08-a0da91942569" alt="ESLint" width="50" height="50" />
 </picture>
 <picture>
   <img src="https://github.com/user-attachments/assets/43e77e95-5597-48f5-bce6-a9bc08fccdfa" alt="Prettier" width="50" height="50" />
 </picture>
 <picture>
-  <img src="https://github.com/user-attachments/assets/106af75a-b23c-4cc5-bd08-a0da91942569" alt="ESLint" width="50" height="50" />
+  <img src="https://github.com/idesigncode/idesigncode/assets/15828266/f969059d-4b80-4171-9c7e-64556879bbd8" alt="HTML5" width="50" height="50" />
+</picture>
+<picture>
+  <img src="https://github.com/idesigncode/idesigncode/assets/15828266/945a4059-b55f-4b04-9398-07330d9e67fc" alt="CSS3" width="50" height="50" />
 </picture>
 <picture>
   <img src="https://github.com/idesigncode/idesigncode/assets/15828266/75173a4a-42a3-4f54-bbfc-5e940c7b8fe3" alt="Jest" width="50" height="50" />
