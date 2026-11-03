@@ -48,9 +48,9 @@ Architecting project infrastructure to guide AI-assisted development.
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/idesigncode/idesigncode/assets/15828266/d4e8d109-4639-426d-b4ba-4b361897f5d9">
   <img src="https://github.com/idesigncode/idesigncode/assets/15828266/a82dbec1-89a3-40f3-bc78-4ae4eda6abc1" alt="Cypress" width="50" height="50" />
 </picture>
-<picture>
+<!--<picture>
   <img src="https://github.com/idesigncode/idesigncode/assets/15828266/c6f030e6-e5a3-4c12-8aaf-9bd9c4cf7b44" alt="WebStorm" width="50" height="50" />
-</picture>
+</picture>-->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/idesigncode/idesigncode/assets/15828266/4e08c8ba-ab6c-4a68-bab9-d6d163ca2550">
   <img src="https://github.com/idesigncode/idesigncode/assets/15828266/c07f3c25-8f9e-4519-86a2-c37be2948bf2" alt="GitHub" width="50" height="50" />
